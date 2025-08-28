@@ -14,9 +14,9 @@ This dashboard provides insights into **insurance policies and claims** to ident
 - Dashboard Reporting
 
 ## 🖼️ Dashboard Preview
-(https://github.com/YashaswiniBaglakadi/Insurance-Policy-And-Claims-Analysis/blob/509d068d1b26ac36b7af092b8239a5217ee38a43/Insurances%20Images/Dashboard.png)
+![dashboaed](https://github.com/YashaswiniBaglakadi/Insurance-Policy-And-Claims-Analysis/blob/b9c759e945319e444e3844a4f31edb03ace3a080/Insurances%20Images/Dashboard.png)
 
 ## 📂 File
-- https://github.com/YashaswiniBaglakadi/Insurance-Policy-And-Claims-Analysis/tree/509d068d1b26ac36b7af092b8239a5217ee38a43/Insurances
----
-
+- Insurance- pbix(power bi),Excel(.xslx),PPT
+(https://github.com/YashaswiniBaglakadi/Insurance-Policy-And-Claims-Analysis/tree/509d068d1b26ac36b7af092b8239a5217ee38a43/Insurances)
+- Insurance -Images of Banner & Dashboard
